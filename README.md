@@ -4,7 +4,7 @@
 ###### 👨‍💻 ผู้จัดทำ : Adisak
 ___
 
- เป็นโปรเจ็คที่ได้สร้างขึ้นเพื่อฝึกใช้งาน HTML CSS JavaScript ร่วมกัน
+ เป็นโปรเจ็คที่ได้สร้างขึ้นเพื่อฝึกใช้งาน HTML CSS JavaScript ร่วมกัน สามารถดูตัวอย่างได้ [ที่นี่](https://github.com/Adisak-KS/Workshop-JavaScript-Click-to-Copy/blob/main/previews/pre-1.png)
 
 ___
 
@@ -36,8 +36,8 @@ ___
 
 1. หน้าแรกของเว็บไซต์
 
-![index](https://github.com/Adisak-KS/Mini-project-php-pdo-crud/blob/main/previews/01_index.png)
+![index](https://github.com/Adisak-KS/Workshop-JavaScript-Click-to-Copy/blob/main/previews/pre-1.png)
 
 2. เมื่อกดปุ่มคัดลอก
 
-![index](https://github.com/Adisak-KS/Mini-project-php-pdo-crud/blob/main/previews/02_insert.png)
+![index](https://github.com/Adisak-KS/Workshop-JavaScript-Click-to-Copy/blob/main/previews/pre-2.png)
